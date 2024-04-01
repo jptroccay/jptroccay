@@ -1,7 +1,7 @@
 ![logo](https://github.com/jptroccay/jptroccay/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm Juan Pablo Troccay</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
-<img align="right" alt="Coding" width="400" src="./image.jpg" />
+<img align="right" alt="Coding" width="300" src="./image.jpg" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jptroccay&label=Profile%20views&color=0e75b6&style=flat" alt="jptroccay" /> </p>
 
